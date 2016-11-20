@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class ClickController : MonoBehaviour {
-
+    public AudioSource click;
 	// Use this for initialization
 	void Start () {
 	
@@ -12,4 +12,8 @@ public class ClickController : MonoBehaviour {
 	void Update () {
 	
 	}
+    public void Click()
+    {
+        click.Play();
+    }
 }
