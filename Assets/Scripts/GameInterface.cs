@@ -24,12 +24,10 @@ public class GameInterface : MonoBehaviour {
             SetIcons();
             SetSlider();
             CheckWin();
-<<<<<<< HEAD
+
             if (!GameManager.Instance.winner && !GameManager.Instance.paused && t > 0)
-=======
-            if (!GameManager.Instance.winner && !GameManager.Instance.paused && t>0)
->>>>>>> origin/master
                 t -= Time.deltaTime;
+
             SetHelp();
         }
 	}
