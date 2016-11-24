@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find 5 Differenses AD.CSharp", "Find 5 Differenses AD.CSharp.csproj", "{AF3ED8DA-2A68-2107-39D6-59998CEB06BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find 5 Differenses AD.CSharp.Editor", "Find 5 Differenses AD.CSharp.Editor.csproj", "{CB750B88-166D-FA4B-9CA0-11F27E05FF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3ED8DA-2A68-2107-39D6-59998CEB06BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3ED8DA-2A68-2107-39D6-59998CEB06BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3ED8DA-2A68-2107-39D6-59998CEB06BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3ED8DA-2A68-2107-39D6-59998CEB06BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB750B88-166D-FA4B-9CA0-11F27E05FF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB750B88-166D-FA4B-9CA0-11F27E05FF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB750B88-166D-FA4B-9CA0-11F27E05FF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB750B88-166D-FA4B-9CA0-11F27E05FF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
